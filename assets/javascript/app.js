@@ -11,19 +11,17 @@
 		},
 		{
 			category: "Metal Music",
-			question: "question2",
-			choices: [ "1", "2", "3", "4" ],
+			question: "Richie Blackmore from Deep Purple and Rainbow, spends his time playing...",
+			choices: [ "Blistering Riffs", "Renaissance Guitar", "Banjo Goodness", "Autoharp" ],
 			answer: "2"
 		},
 		{
 			category: "Metal Music",
-			question: "question3",
-			choices: [ "1", "2", "3", "4" ],
+			question: "Procol Harum is best know for their song...",
+			choices: [ "The Prodigal Stranger", "Wasted Years", "A Whiter Shade of Pale", "Conquistador" ],
 			answer: "3"
 		}
 		],
-
-		ABCD: [ "A", "B", "C", "D" ],
 
 		displayCategory: function(number) {
 
