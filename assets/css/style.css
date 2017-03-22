@@ -1,0 +1,57 @@
+body {
+	font-family: 'Baloo Bhaina', cursive;
+	text-align: center;
+}
+
+h1 {
+	padding-top: 75px;
+	font-size: 85px;
+}
+
+h2 {
+	padding-top: 35px;
+	font-size: 35px;
+}
+
+h3 {
+	padding-top: 25px;
+	font-size: 25px;
+}
+
+.background {
+	background-image: url("../images/trivia-background.jpg");
+	width: 100%;
+	height: 100%;
+}
+
+.transbox {
+	width: 100%;
+	height: 100%;
+	background-color: #fff;
+	opacity: 0.88;
+}
+
+#start {
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+
+.startButton {
+	font-size: 25px;
+	color: black;
+	padding: 20px 45px 15px;
+}
+
+#buttons {
+	padding-top: 25px;
+	padding-bottom: 30px;
+}
+
+.answerBtn {	
+	font-size: 25px;
+	color: black;
+	padding: 10px 15px 10px 15px;
+	margin-right: 20px;
+}
+
+
