@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-	padding-top: 75px;
+	padding-top: 50px;
 	font-size: 85px;
 }
 
@@ -31,12 +31,11 @@ h3 {
 	opacity: 0.88;
 }
 
-#start {
-	padding-top: 150px;
-	padding-bottom: 150px;
+#footer {
+	padding-bottom: 250px;
 }
 
-.startButton {
+.startBtn, .replayBtn {
 	font-size: 25px;
 	color: black;
 	padding: 20px 45px 15px;
@@ -53,5 +52,3 @@ h3 {
 	padding: 10px 15px 10px 15px;
 	margin-right: 20px;
 }
-
-
